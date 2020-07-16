@@ -1,0 +1,4 @@
+.focus:hover{
+	       box-shadow: 5px 5px 20px black;
+	       cursor: pointer;
+}
